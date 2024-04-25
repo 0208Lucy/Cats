@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\Cats.exe.config
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\Cats.exe
+C:\Users\user\source\repos\Cats\Cats\bin\Debug\Cats.pdb
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\Cats.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\Cats.Form1.resources
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\Cats.Properties.Resources.resources
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\Cats.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\Cats.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\Cats.exe
+C:\Users\user\source\repos\Cats\Cats\obj\Debug\Cats.pdb
